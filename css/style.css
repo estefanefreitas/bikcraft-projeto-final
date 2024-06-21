@@ -1,1 +1,7 @@
+@import url(./global.css);
 @import url(./header.css);
+@import url(./introducao.css);
+
+
+/*Componentes*/
+@import url(/utilidades/componentes.css);
